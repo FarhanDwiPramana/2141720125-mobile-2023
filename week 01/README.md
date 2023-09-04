@@ -1,4 +1,4 @@
-#Tugas 1, Pemrograman Mobile
+# week 1, Pemrograman Mobile
 
 ### Nama    : Farhan Dwi Pramana
 ### NIM     : 2141720125
