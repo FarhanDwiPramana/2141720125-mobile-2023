@@ -19,5 +19,27 @@
  tersedia didalam bahasa dart, terakhir yaitu dapat membangun aplikasi yang lebih kompleks.
  
  ### Tugas 03
+ DART -> Fitur-FItur :
+         1. Productive Tooling -> Tool yang berguna untuk analisis kode, plugin IDE, serta   
+                                  ekosistem paket yang besar
+         2. Garbage Colection -> Mengelola dealokasi memori (utamanya untuk tempat pada objek 
+                                 yang tidak digunakan lagi)
+         3. Statically typed -> Mempunyai fitur type-safe dan type inference untuk menganalisis 
+                                types saat runtime, yang akan digunakan untuk menemukan bug 
+                                selama kompilasi kode.
+         4. Protability -> Dart tidak hanya untuk web, tetapi bisa dikompilasi secara native ke 
+                           kode Advanced RISC Machines (ARM)
+ Selain fitur-fitur diatas , Dart sendiri berguna untuk seperti : Memecahkan sebuah masalah yang ada pada JavaScript, Memberikan performa serta alat yang lebih baik untuk proyek berskala besar, dan dibentuk agar kuat serta fleksibel. Cara kerja kode ketika beroperasi mempunyai 2 mode yaitu:
+ -Kompilasi Just-in-Time(JIT) -> Tempat kode sumber yang dikompilasi sesuai dengan kebutuhan
+ -Kompilasi Ahead-Of-Time(AOT) -> Dimana Dart VM dan kode Anda dikompilasi sebelumnya, VM 
+                                  bekerja lebih seperti sistem runtime Dart, yang menyediakan 
+                                  garbage collector dan metode-metode native dari Dart software 
+                                  development kit (SDK) pada aplikasi.
+ Kemudian, Dart sendiri dirancang untuk object-oriented serta memiliki berbagai macam 
+ operators, seperti dart operators, aritmatika operators, increment dan decrement operators, 
+ equality dan relational operators, dan logical operators.
+ 
+ 
+ 
  
  
