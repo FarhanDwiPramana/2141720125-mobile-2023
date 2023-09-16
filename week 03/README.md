@@ -12,13 +12,14 @@
 ### Langkah 2
 ### Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan!
 ### ![if-else-langkah1](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/9ed66b41-8f6b-48c4-892c-eb7f1b663045)
+#### Kode diatas merupakan contoh penerapan dari if-else, dengan nama variabel yaitu test,
 
 ### Langkah 3
 ### Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
 ### ![soal-if-else-langkah3](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/81e17cd2-107c-427f-a30b-20b379581fa5)
 ### Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan if/else.
 ### ![if-else-langkah2(a)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/176f1c29-4be2-40b3-a6c5-5291da13cf7b)
-### A
+#### Akan terjadi error, dikarenakan terdapat sebuah 2 variabel dengan penamaan yang sama. Solusinya yaitu harus mengupdate variabel tersebut dengan nilai baru.
 ### Perbaikan
 ### ![if-else-langkah2(b)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/08cea8cb-e041-4c92-8415-4ae74d962407)
 
@@ -30,6 +31,7 @@
 ### Langkah 2
 ### Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 ### ![do-while-langkah1(a)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/51085ce4-75dc-4298-9e9c-14501c9e47f4)
+#### Akan terjadi error, dikarenakan tidak adanya sebuah variabel yang bernama counter atau belom diinisialisasi.
 ### Perbaikan
 ### ![do-while-langkah1(b)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/3e130c1a-201d-43c3-93a3-a18f120b47cb)
 
@@ -47,6 +49,7 @@
 ### Langkah 2
 ### Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 ### ![break-continue-langkah1(a)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/faf2ff6d-7420-42c0-b55d-fc3bdc21700c)
+#### Akan terjadi error, dikarenakan tidak adanya sebuah variabel yang bernama index, selain itu terdapat penulisan yang salah seperti huruf besar kecilnya.
 ### Perbaikan
 ### ![break-continue-langkah1(b)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/b16f915e-87e3-4384-8455-d657607f57b3)
 
@@ -55,6 +58,7 @@
 ### ![soal-break-continue-langkah3](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/681b52e7-2586-4e47-af69-1c17d54148f2)
 ### Apa yang terjadi ? Jika terjadi error, silakan perbaiki namun tetap menggunakan for dan break-continue.
 ### ![break-continue-langkah3(a)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/7118704a-9227-4470-b2df-0a0d7953eb7a)
+#### Akan terjadi error, dikarenakan penulisan yang salah seperti besar kecilnya huruf.
 ### Perbaikan
 ### ![break-continue-langkah3(b)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/e7ee027f-8023-4fcb-b9ce-9267f8a269d7)
 
