@@ -84,9 +84,11 @@ Flutter menyediakan widget yang dapat menerima input dari pengguna aplikasi yait
 
 Contoh penggunaan TextField widget adalah sebagai berikut:
 
+![prak4-langkah5](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/029cab49-ea6c-4210-9cd6-5522e59d3f44)
+
 ![prak4-langkah5(b)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/80c627c1-aaf9-4df6-9a8f-4aeaae5a6b8a)
 
-![prak4-langkah5](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/029cab49-ea6c-4210-9cd6-5522e59d3f44)
+![prak4-langkah5(c)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/6d410518-9e16-4d52-85b8-05616f80be43)
 
 #### Langkah 6: Date and Time Pikers
 
