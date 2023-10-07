@@ -93,3 +93,4 @@ Contoh penggunaan TextField widget adalah sebagai berikut:
 Date and Time Pickers termasuk pada kategori input dan selection widget, berikut adalah contoh penggunaan Date and Time Pickers.
 
 ![prak4-langkah6](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/92f6f340-e159-4e14-9f02-e361918fc139)
+![prak4-langkah6(b)](https://github.com/FarhanDwiPramana/2141720125-mobile-2023/assets/121709293/349cd030-159a-4401-8dfa-11ec4936e8c8)
