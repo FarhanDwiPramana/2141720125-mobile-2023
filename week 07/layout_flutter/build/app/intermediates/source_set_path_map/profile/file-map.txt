@@ -1,0 +1,12 @@
+com.example.layout_flutter.app-jetified-window-1.0.0-beta04-0 C:\Users\HP\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.layout_flutter.app-jetified-annotation-experimental-1.1.0-1 C:\Users\HP\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.layout_flutter.app-core-1.6.0-2 C:\Users\HP\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.layout_flutter.app-jetified-window-java-1.0.0-beta04-3 C:\Users\HP\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.layout_flutter.app-main-4 F:\KULIAH\Semester 5\Mobile\2141720125-mobile-2023\week 07\layout_flutter\android\app\src\main\res
+com.example.layout_flutter.app-profile-5 F:\KULIAH\Semester 5\Mobile\2141720125-mobile-2023\week 07\layout_flutter\android\app\src\profile\res
+com.example.layout_flutter.app-pngs-6 F:\KULIAH\Semester 5\Mobile\2141720125-mobile-2023\week 07\layout_flutter\build\app\generated\res\pngs\profile
+com.example.layout_flutter.app-resValues-7 F:\KULIAH\Semester 5\Mobile\2141720125-mobile-2023\week 07\layout_flutter\build\app\generated\res\resValues\profile
+com.example.layout_flutter.app-rs-8 F:\KULIAH\Semester 5\Mobile\2141720125-mobile-2023\week 07\layout_flutter\build\app\generated\res\rs\profile
+com.example.layout_flutter.app-mergeProfileResources-9 F:\KULIAH\Semester 5\Mobile\2141720125-mobile-2023\week 07\layout_flutter\build\app\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.example.layout_flutter.app-mergeProfileResources-10 F:\KULIAH\Semester 5\Mobile\2141720125-mobile-2023\week 07\layout_flutter\build\app\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.example.layout_flutter.app-merged_res-11 F:\KULIAH\Semester 5\Mobile\2141720125-mobile-2023\week 07\layout_flutter\build\app\intermediates\merged_res\profile

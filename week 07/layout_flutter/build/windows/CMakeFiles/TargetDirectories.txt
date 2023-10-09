@@ -1,0 +1,10 @@
+F:/KULIAH/Semester 5/Mobile/2141720125-mobile-2023/week 07/layout_flutter/build/windows/CMakeFiles/INSTALL.dir
+F:/KULIAH/Semester 5/Mobile/2141720125-mobile-2023/week 07/layout_flutter/build/windows/CMakeFiles/ALL_BUILD.dir
+F:/KULIAH/Semester 5/Mobile/2141720125-mobile-2023/week 07/layout_flutter/build/windows/CMakeFiles/ZERO_CHECK.dir
+F:/KULIAH/Semester 5/Mobile/2141720125-mobile-2023/week 07/layout_flutter/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+F:/KULIAH/Semester 5/Mobile/2141720125-mobile-2023/week 07/layout_flutter/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+F:/KULIAH/Semester 5/Mobile/2141720125-mobile-2023/week 07/layout_flutter/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+F:/KULIAH/Semester 5/Mobile/2141720125-mobile-2023/week 07/layout_flutter/build/windows/flutter/CMakeFiles/INSTALL.dir
+F:/KULIAH/Semester 5/Mobile/2141720125-mobile-2023/week 07/layout_flutter/build/windows/runner/CMakeFiles/layout_flutter.dir
+F:/KULIAH/Semester 5/Mobile/2141720125-mobile-2023/week 07/layout_flutter/build/windows/runner/CMakeFiles/INSTALL.dir
+F:/KULIAH/Semester 5/Mobile/2141720125-mobile-2023/week 07/layout_flutter/build/windows/runner/CMakeFiles/ALL_BUILD.dir

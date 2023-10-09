@@ -1,0 +1,4 @@
+#Mon Oct 09 09:40:04 WIB 2023
+base.0=F\:\\KULIAH\\Semester 5\\Mobile\\2141720125-mobile-2023\\week 07\\layout_flutter\\build\\app\\intermediates\\dex\\profile\\mergeDexProfile\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
