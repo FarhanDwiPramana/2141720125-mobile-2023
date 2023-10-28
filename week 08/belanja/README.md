@@ -34,8 +34,11 @@ Untuk menampilkan ListView pada praktikum ini digunakan itemBuilder. Data diambi
 ![Alt text](assets/langkah6.png)
 
 ### HASIL 
-    * Tampilan Awal                                 * Sesudah di tap
-    ![Alt text](assets/hasil1.png)                  ![Alt text](assets/hasil2.png)
+Tampilan Awal                                 
+   ![Alt text](assets/hasil1.png)
+   
+Sesudah di tap
+   ![Alt text](assets/hasil2.png)
 
 
 # TUGAS
@@ -57,5 +60,8 @@ Untuk menampilkan ListView pada praktikum ini digunakan itemBuilder. Data diambi
 ![Alt text](assets/tugas_item_page_2.png)
 
 ### HASIL
-Tampilan Awal                                      Sesudah di tap
- ![Alt text](assets/hasil_tugas1.png)                 ![Alt text](assets/hasil_tugas2.png)
+Tampilan Awal                                      
+ ![Alt text](assets/hasil_tugas1.png)  
+ 
+Sesudah di tap
+ ![Alt text](assets/hasil_tugas2.png)
