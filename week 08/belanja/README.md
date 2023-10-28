@@ -7,11 +7,11 @@ Sebelum melanjutkan praktikum, buatlah sebuah project baru Flutter dengan nama b
 
 ### Langkah 2: Mendefinisikan Route
 Buatlah dua buah file dart dengan nama home_page.dart dan item_page.dart pada folder pages. Untuk masing-masing file, deklarasikan class HomePage pada file home_page.dart dan ItemPage pada item_page.dart. Turunkan class dari StatelessWidget. Gambaran potongan kode dapat anda lihat sebagai berikut.
-    * home_page.dart
-    ![Alt text](assets/home_page.png)
+home_page.dart
+   ![Alt text](assets/home_page.png)
 
-    * item_page.dart
-    ![Alt text](assets/item_page.png)
+item_page.dart
+   ![Alt text](assets/item_page.png)
 
 ### Langkah 3: :Lengkapi Kode di main.dart
 Setelah kedua halaman telah dibuat dan didefinisikan, bukalah file main.dart. Pada langkah ini anda akan mendefinisikan Route untuk kedua halaman tersebut. Definisi penamaan route harus bersifat unique. Halaman HomePage didefinisikan sebagai /. Dan halaman ItemPage didefinisikan sebagai /item. Untuk mendefinisikan halaman awal, anda dapat menggunakan named argument initialRoute. Gambaran tahapan ini, dapat anda lihat pada potongan kode berikut.
@@ -57,5 +57,5 @@ Untuk menampilkan ListView pada praktikum ini digunakan itemBuilder. Data diambi
 ![Alt text](assets/tugas_item_page_2.png)
 
 ### HASIL
-    * Tampilan Awal                                     * Sesudah di tap
-    ![Alt text](assets/hasil_tugas1.png)                 ![Alt text](assets/hasil_tugas2.png)
+Tampilan Awal                                      Sesudah di tap
+ ![Alt text](assets/hasil_tugas1.png)                 ![Alt text](assets/hasil_tugas2.png)
