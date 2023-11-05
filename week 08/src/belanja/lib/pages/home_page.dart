@@ -143,7 +143,7 @@ class HomePage extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
                     children: [
                       Icon(
-                        Icons.keyboard_backspace,N
+                        Icons.keyboard_backspace,
                         color: Colors.white,
                       ),
                       Text(
