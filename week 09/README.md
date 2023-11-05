@@ -40,7 +40,7 @@ Tambahkan variabel text dan parameter di constructor seperti berikut.
 
 Buka file main.dart lalu tambahkan di dalam children: pada class \_MyHomePageState
 
-![Alt text](doc/langkah6.png)
+![Alt text])(doc/langkah6.png) 
 
 Run aplikasi tersebut dengan tekan F5, maka hasilnya akan seperti berikut.
 
