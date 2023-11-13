@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:http/http.dart';
 
 void main() {
   runApp(const MyApp());
@@ -29,6 +30,14 @@ class FuturePage extends StatefulWidget {
 
 class _FuturePageState extends State<FuturePage> {
   String result = '';
+
+  Future<Response> getData() async {
+    const authority = 'www.googleapis.com';
+    const path = '/books/v1/volumes/dgyHjgEACAAJ';
+    Uri url = Uri.https(authority, path);
+    return http.get(url);
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
