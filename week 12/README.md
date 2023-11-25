@@ -64,3 +64,13 @@ Langkah pertama menambahkan 3 metode di class \_FuturePageState yang digunakan u
 Pada langkah kedua, metode count() yang digunakan untuk operasi perhitungan dengan menunggu hasil dari beberapa operasi asynchronous dan kemudian melakukan sesuatu (dalam hal ini, mengupdate state widget) ketika semua operasi tersebut selesai.
 
 <img src="doc/prak2-langkah4.png">
+
+# **Praktikum 3: Menggunakan Completer di Future**
+
+**Langkah 2: Tambahkan variabel dan method**
+
+**Soal 5** Jelaskan maksud kode langkah 2 tersebut!
+
+Langkah 2 membuat variabel completer dan dua metode yaitu pertama metode getNumber() menginisialisasi Completer, memanggil metode calculate() yang menunda eksekusi selama 5 detik, dan mengembalikan completer future. Metode calculate() secara asinkron mengisi Completer dengan nilai 42 setelah penundaan, menciptakan alur eksekusi asinkron untuk mengakses nilai setelah operasi selesai.
+
+<img src="doc/prak3-langkah4-soal5.png">
