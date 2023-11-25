@@ -81,3 +81,8 @@ langkah 2 fokus pada pembuatan Completer dan menginisialisasi alur eksekusi asin
 langkah 5-6 fokus pada implementasi operasi yang memakan waktu dalam metode calculate(), dan menggunakan then serta catchError untuk menangani hasil atau kesalahan setelah pemanggilan getNumber().
 
 <img src="doc/prak3-langkah6-soal6.png">
+
+# **Praktikum 4: Memanggil Future secara paralel**
+
+**Soal 7**
+<img src="doc/prak4-langkah3-soal7.png">
