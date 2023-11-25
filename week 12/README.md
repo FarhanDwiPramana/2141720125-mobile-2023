@@ -135,4 +135,8 @@ Penggunaan FutureBuilder menyederhanakan dan membersihkan kode saat bekerja deng
 
 <img src="doc/prak6-langkah8.png">
 
+**Soal 14**
+Apakah ada perbedaan UI dengan langkah sebelumnya? Mengapa demikian?
+Tidak ada perbedaanya
 
+<img src="doc/prak6-langkah8.png">
