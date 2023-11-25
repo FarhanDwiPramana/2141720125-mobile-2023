@@ -125,3 +125,14 @@ Apakah Anda mendapatkan koordinat GPS ketika run di browser? Mengapa demikian?
 Bisa, karena saya menggunakan dependensi geolocator : ^10.1 yang akan secara otomatis menambahkan paket geolocator_web yang mendukung geolokasi di browser
 
 <img src="doc/prak6-langkah8.png">
+
+# **Praktikum 7: Manajemen Future dengan FutureBuilder**
+
+**Soal 13**
+Soal 13 Apakah ada perbedaan UI dengan praktikum sebelumnya? Mengapa demikian?
+
+Penggunaan FutureBuilder menyederhanakan dan membersihkan kode saat bekerja dengan operasi asinkron, meningkatkan keterbacaan dan mengurangi boilerplate. Ini juga menyediakan struktur yang terorganisir untuk menangani state dan kondisi UI.
+
+<img src="doc/prak6-langkah8.png">
+
+
