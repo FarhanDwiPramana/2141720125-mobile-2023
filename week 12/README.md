@@ -119,3 +119,9 @@ Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerja
     );
   }
 ```
+
+**Soal 12**
+Apakah Anda mendapatkan koordinat GPS ketika run di browser? Mengapa demikian?
+Bisa, karena saya menggunakan dependensi geolocator : ^10.1 yang akan secara otomatis menambahkan paket geolocator_web yang mendukung geolokasi di browser
+
+<img src="doc/prak6-langkah8.png">
