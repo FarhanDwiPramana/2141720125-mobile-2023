@@ -74,3 +74,10 @@ Pada langkah kedua, metode count() yang digunakan untuk operasi perhitungan deng
 Langkah 2 membuat variabel completer dan dua metode yaitu pertama metode getNumber() menginisialisasi Completer, memanggil metode calculate() yang menunda eksekusi selama 5 detik, dan mengembalikan completer future. Metode calculate() secara asinkron mengisi Completer dengan nilai 42 setelah penundaan, menciptakan alur eksekusi asinkron untuk mengakses nilai setelah operasi selesai.
 
 <img src="doc/prak3-langkah4-soal5.png">
+
+**Soal 6**
+Jelaskan maksud perbedaan kode langkah 2 dengan langkah 5-6
+langkah 2 fokus pada pembuatan Completer dan menginisialisasi alur eksekusi asinkron dengan memanggil calculate().
+langkah 5-6 fokus pada implementasi operasi yang memakan waktu dalam metode calculate(), dan menggunakan then serta catchError untuk menangani hasil atau kesalahan setelah pemanggilan getNumber().
+
+<img src="doc/prak3-langkah6-soal6.png">
