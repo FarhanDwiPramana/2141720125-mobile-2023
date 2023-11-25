@@ -100,3 +100,22 @@ Langkah 4 menggunakan Future.wait untuk mengeksekusi tiga fungsi asinkron secara
 **Soal 10**
 Jelaskan perbedaan kode langkah 1 dan 4!
 returnError() memicu kesalahan setelah menunggu selama 2 detik, sedangkan handleError() mencoba mengeksekusi returnError(), menangkap kesalahan jika ada, dan selalu menjalankan blok finally setelah operasi selesai.
+
+# **Praktikum 6: Menggunakan Future dengan StatefulWidget**
+
+**Soal 11**
+Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerjaan Anda.
+
+```
+ @override
+  Widget build(BuildContext context) {
+    return  Scaffold(
+      appBar: AppBar(
+        title: Text('Current Location Farhan'),
+      ),
+      body: Center(
+        child: Text(myPosition),
+      ),
+    );
+  }
+```
