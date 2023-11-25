@@ -164,4 +164,8 @@ Widget build(BuildContext context) {
   }
 ```
 
+**Soal 16**
+Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ?
+Akan merubah warna sesuai dengan buttonnya, jika klik button red maka background akan beruah menjadi merah, dan setertusnya.
 
+<img src="doc/prak8-langkah8.gif">
