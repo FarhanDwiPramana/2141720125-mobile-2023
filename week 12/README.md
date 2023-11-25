@@ -140,3 +140,28 @@ Apakah ada perbedaan UI dengan langkah sebelumnya? Mengapa demikian?
 Tidak ada perbedaanya
 
 <img src="doc/prak6-langkah8.png">
+
+# **Praktikum 8: Navigation route dengan Future Function**
+
+**Soal 15**
+Tambahkan nama panggilan Anda pada tiap properti title sebagai identitas pekerjaan Anda.
+
+```
+Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: color,
+      appBar: AppBar(
+        title: const Text('Navigation First Screen Farhan'),
+      ),
+      body: Center(
+        child: ElevatedButton(
+            child: const Text('Change Color'),
+            onPressed: () {
+              _navigateAndGetColor(context);
+            }),
+      ),
+    );
+  }
+```
+
+
