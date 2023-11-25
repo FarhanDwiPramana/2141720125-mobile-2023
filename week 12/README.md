@@ -96,3 +96,7 @@ Langkah 4 menggunakan Future.wait untuk mengeksekusi tiga fungsi asinkron secara
 
 **Soal 9**
 <img src="doc/prak5-langkah3-a-soal9.png">
+
+**Soal 10**
+Jelaskan perbedaan kode langkah 1 dan 4!
+returnError() memicu kesalahan setelah menunggu selama 2 detik, sedangkan handleError() mencoba mengeksekusi returnError(), menangkap kesalahan jika ada, dan selalu menjalankan blok finally setelah operasi selesai.
