@@ -169,3 +169,11 @@ Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ?
 Akan merubah warna sesuai dengan buttonnya, jika klik button red maka background akan beruah menjadi merah, dan setertusnya.
 
 <img src="doc/prak8-langkah8.gif">
+
+# **Praktikum 9: Memanfaatkan async/await dengan Widget Dialog**
+
+**Soal 17**
+Cobalah klik setiap button, apa yang terjadi ? Mengapa demikian ?
+Tombol "Change Color" di NavigationDialogScreen memunculkan dialog pemilihan warna. Namun, pembaruan warna latar belakang terkendala karena pemanggilan setState menggunakan nilai yang sama seperti sebelumnya. Untuk memperbaikinya, kita perlu menyimpan nilai warna yang dipilih dari dialog dan menggunakannya dalam setState agar pembaruan warna terjadi dengan benar setelah pemilihan warna.
+
+<img src="doc/prak9-langkah6.gif">
