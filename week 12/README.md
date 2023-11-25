@@ -17,3 +17,16 @@ return Scaffold(
         title: const Text('Back from the Future Farhan'),
       ),
 ```
+
+**Soal 2** Carilah judul buku favorit Anda di Google Books, lalu ganti ID buku pada variabel `path`
+
+```
+Future<Response> getData() async {
+    const authority = 'www.googleapis.com';
+    const path = '/books/v1/volumes/dgyHjgEACAAJ';
+    Uri url = Uri.https(authority, path);
+    return http.get(url);
+  }
+```
+
+<img src="doc/prak1-langkah4-soal2-b.png)">
