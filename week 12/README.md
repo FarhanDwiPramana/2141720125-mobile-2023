@@ -86,3 +86,8 @@ langkah 5-6 fokus pada implementasi operasi yang memakan waktu dalam metode calc
 
 **Soal 7**
 <img src="doc/prak4-langkah3-soal7.png">
+
+**Soal8**
+Jelaskan maksud perbedaan kode langkah 1 dan 4!
+Langkah 1 menggunakan FutureGroup untuk menangani beberapa future sekaligus. Tiga fungsi asinkron ditambahkan ke grup, ditutup dengan futureGroup.close(). Metode then pada futureGroup.future mengumpulkan hasilnya, menjumlahkannya, dan memperbarui state widget.
+Langkah 4 menggunakan Future.wait untuk mengeksekusi tiga fungsi asinkron secara bersamaan dan mengumpulkan hasilnya dalam satu future tunggal.
