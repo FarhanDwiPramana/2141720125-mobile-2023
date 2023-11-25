@@ -54,3 +54,13 @@ Future<Response> getData() async {
 Pada langkah kelima, dilakukan penggunaan metode substring(0, 450) yaitu berguna untuk mengekstraksi karakter dengan panjang 450 pertama atau bisa dikatakan sabagai pembatas karakter. catchError digunakan sebagai menangkap atau mengatasi jika terjadi error ketika pemrosesan permintaan data.
 
 <img src="doc/prak1-langkah5.png)">
+
+# **Praktikum 2: Menggunakan await/async untuk menghindari callbacks**
+
+**Soal 4** Jelaskan maksud kode langkah 1 dan 2
+
+Langkah pertama menambahkan 3 metode di class \_FuturePageState yang digunakan untuk operasi asyncronous dengan masing-masing akan menunggu 3 detik yang menggunakan future.delayed yang kemudian akan mengembalikan nilai integer.
+
+Pada langkah kedua, metode count() yang digunakan untuk operasi perhitungan dengan menunggu hasil dari beberapa operasi asynchronous dan kemudian melakukan sesuatu (dalam hal ini, mengupdate state widget) ketika semua operasi tersebut selesai.
+
+<img src="doc/prak2-langkah4.png">
