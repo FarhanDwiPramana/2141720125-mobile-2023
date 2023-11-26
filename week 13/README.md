@@ -126,3 +126,26 @@ Jawab :
 Jawab :
 
 <img src="doc/prak3-jawaban-soal8.gif">
+
+## Praktikum 4: Subscribe ke stream events
+
+### Soal 9
+
+- Jelaskan maksud kode langkah 2, 6 dan 8 tersebut!
+
+Jawab :
+
+> Langkah 2
+> menambahkan kode untuk membuat objek NumberStream dan NumberStreamController dalam langkah ini. Objek NumberStream akan bertanggung jawab menghasilkan stream integer secara acak, sedangkan objek NumberStreamController akan digunakan untuk mengendalikan stream tersebut.
+
+> Langkah 6
+> Dalam langkah ini, ditambahkan kode untuk membatalkan subscription di dalam metode dispose(). Pembatalan subscription ini diperlukan untuk mencegah terjadinya memory leak.
+
+> Langkah 8
+> Dalam langkah ini, kode tambahan diperkenalkan untuk memeriksa apakah stream sudah ditutup sebelum menambahkan data ke dalamnya. Jika ternyata stream sudah ditutup, nilai variabel lastNumber akan diubah menjadi -1.
+
+- Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+
+Jawab :
+
+<img src="doc/prak4-jawaban-soal9.gif">
