@@ -73,3 +73,24 @@ Jawab :
 > Await for:
 >
 > Metode await for memiliki beberapa sifat kunci. Pertama, sifat sinkronusnya membuat eksekusi program menunggu hingga data tersedia di stream sebelum melanjutkan ke baris kode berikutnya. Kedua, penggunaan await for mirip dengan menggunakan iterator untuk mengonsumsi nilai dari stream satu per satu. Terakhir, penggunaan await for bersifat blocking, yang berarti program akan terhenti atau diblokir sampai data tersedia di stream atau stream ditutup.
+
+## Praktikum 2: Stream controllers dan sinks
+
+### Soal 6
+
+- Jelaskan maksud kode langkah 8 dan 10 tersebut!
+
+Jawab :
+
+> Langkah 8: Edit initState()
+> Pada langkah initState(), widget dibuat untuk pertama kalinya. Kode ini menciptakan objek NumberStream dan StreamController. StreamController berfungsi mengendalikan aliran data dari NumberStream. Selanjutnya, aliran ini didengarkan, dan setiap kali ada peristiwa baru, metode setState() dipanggil. Hal ini memastikan bahwa widget diperbarui secara otomatis setiap kali nomor terbaru diterima.
+
+> Langkah 10: Tambah method addRandomNumber()
+> Metode addRandomNumber() membuat nomor acak antara 0 dan 9 menggunakan objek Random, lalu menambahkannya ke aliran dengan metode addNumberToSink().
+
+- Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+  Lalu lakukan commit dengan pesan "W13: Jawaban Soal 6".
+
+Jawab :
+
+<img src="doc/prak2-jawaban-soal6.gif">
