@@ -20,6 +20,7 @@ Jawab :
 ```
 
 ### Soal 2
+
 - Tambahkan 5 warna lainnya sesuai keinginan Anda pada variabel colors tersebut.
 
 ```dart
@@ -37,4 +38,17 @@ Jawab :
   ];
 ```
 
+### Soal 3
+
+- Jelaskan fungsi keyword yield\* pada kode tersebut!
+
+Jawab :
+
+> Keyword yield* digunakan untuk mengambil nilai dari stream Stream.periodic. Dengan yield*, kita dapat menggabungkan nilai dari stream atau iterable lain ke dalamnya.
+
+- Apa maksud isi perintah kode tersebut?
+
+Jawab :
+
+> Kode tersebut bertujuan membuat stream warna yang berubah setiap detik. Ini dilakukan dengan memanfaatkan Stream.periodic yang menghasilkan nilai integer setiap detik. Nilai integer tersebut digunakan sebagai indeks untuk menentukan warna yang akan dihasilkan.
 
