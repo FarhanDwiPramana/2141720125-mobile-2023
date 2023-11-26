@@ -173,3 +173,21 @@ Jawab :
 Jawab :
 
 <img src="doc/prak5-jawaban-soal11.gif">
+
+## Praktikum 6: StreamBuilder
+
+### Soal 12
+
+- Jelaskan maksud kode pada langkah 3 dan 7 !
+
+Jawab :
+
+> Langkah 3 Terlibat dalam pembuatan kelas NumberStream(), yang mencakup metode getNumbers() untuk menghasilkan stream berisi angka-angka acak. Stream ini diperbarui setiap 1 detik.
+
+> Langkah 7 menggunakan StreamBuilder untuk membuat antarmuka pengguna (UI) yang menampilkan nilai dari stream secara real-time. Antarmuka ini otomatis diperbarui saat terjadi perubahan dalam stream, baik nilai atau error. Pesan 'Error!' ditampilkan jika terjadi error, sementara angka acak dengan font 96 muncul jika ada data dari stream. Jika tidak ada data yang diterima, antarmuka akan menampilkan widget kosong..
+
+- Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+
+Jawab :
+
+<img src="doc/prak6-langkah8.gif">
