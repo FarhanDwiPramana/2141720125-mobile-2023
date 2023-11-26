@@ -149,3 +149,13 @@ Jawab :
 Jawab :
 
 <img src="doc/prak4-jawaban-soal9.gif">
+
+## Praktikum 5: Multiple stream subscriptions
+
+### Soal 10
+
+- Jelaskan mengapa error itu bisa terjadi ?
+
+Jawab :
+
+> Kesalahan terjadi saat mencoba menambahkan atau membuat dua langganan pada stream yang sama tanpa membatalkan langganan sebelumnya. Masalah muncul pada inisialisasi langganan2 dalam metode initState() karena sudah ada inisialisasi langganan untuk menangani stream yang sama pada saat itu.
