@@ -59,3 +59,17 @@ Jawab :
 Jawab :
 
 <img src="doc/prak1-jawaban-soal4.gif">
+
+### Soal 5
+
+- Jelaskan perbedaan menggunakan listen dan await for (langkah 9) !
+
+Jawab :
+
+> Listen:
+>
+> Metode listen memiliki beberapa karakteristik kunci. Pertama, sifatnya yang asinkronus memungkinkan program untuk melanjutkan eksekusi tanpa menunggu selesainya pengiriman data ke stream. Kedua, fleksibilitas handling memungkinkan Anda menentukan fungsi handler yang akan dijalankan setiap kali terjadi perubahan pada stream. Terakhir, penggunaan listen bersifat non-blocking, memungkinkan program untuk melanjutkan eksekusi tanpa harus menunggu setiap data diambil dari stream
+
+> Await for:
+>
+> Metode await for memiliki beberapa sifat kunci. Pertama, sifat sinkronusnya membuat eksekusi program menunggu hingga data tersedia di stream sebelum melanjutkan ke baris kode berikutnya. Kedua, penggunaan await for mirip dengan menggunakan iterator untuk mengonsumsi nilai dari stream satu per satu. Terakhir, penggunaan await for bersifat blocking, yang berarti program akan terhenti atau diblokir sampai data tersedia di stream atau stream ditutup.
