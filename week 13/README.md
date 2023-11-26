@@ -103,3 +103,26 @@ Jawab :
 
 > Pada langkah 13, Ditambahkan metode addError() ke kelas Stream. Fungsinya adalah menambahkan error ke dalam stream.
 > Pada langkah 15, mengerdit metode addRandomNumber(). Dua baris kode sebelumnya yang menambahkan nomor acak ke dalam stream telah di-komentari. Sebagai gantinya, ditambahkan kode baru untuk menyertakan error ke dalam stream.
+
+## Praktikum 3: Injeksi data ke streams
+
+### Soal 8
+
+- Jelaskan maksud kode langkah 1-3 tersebut!
+
+Jawab :
+
+> Langkah 1
+> Dalam langkah ini, kita menyertakan variabel baru dengan nama transformer di dalam class \_StreamHomePageState. Variabel ini akan digunakan untuk menyimpan objek StreamTransformer.
+
+> Langkah 2
+> Pada tahap ini, ditambahkan kode untuk membuat objek StreamTransformer di dalam class \_StreamHomePageState. Objek tersebut akan berfungsi untuk mengubah data yang diterima dari stream. Secara khusus, dalam kasus ini, data integer akan diubah menjadi hasil perkalian dengan 10.
+
+> Langkah 3
+> Dalam langkah ini, dilakukan penyuntingan pada kode di dalam metode initState(). Kode tambahan digunakan untuk memanfaatkan objek transformer guna mengubah data yang diterima dari stream.
+
+- Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+
+Jawab :
+
+<img src="doc/prak3-jawaban-soal8.gif">
