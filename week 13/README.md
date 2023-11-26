@@ -159,3 +159,17 @@ Jawab :
 Jawab :
 
 > Kesalahan terjadi saat mencoba menambahkan atau membuat dua langganan pada stream yang sama tanpa membatalkan langganan sebelumnya. Masalah muncul pada inisialisasi langganan2 dalam metode initState() karena sudah ada inisialisasi langganan untuk menangani stream yang sama pada saat itu.
+
+### Soal 11
+
+- Jelaskan mengapa hal itu bisa terjadi ?
+
+Jawab :
+
+> Ketika tombol "New Random Number" ditekan, dua angka acak yang identik dihasilkan. Angka-angka tersebut merupakan output dari stream yang diakses oleh objek subscription dan subscription2. Stream ini menghasilkan nilai berupa event (angka acak) yang dipisahkan dengan tanda "-". Ketika tombol "Stop Stream" ditekan, langganan terhadap stream dihentikan. Ini mengakibatkan stream tidak lagi mengeluarkan output, meskipun tombol "New Random Number" tetap ditekan.
+
+- Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+
+Jawab :
+
+<img src="doc/prak5-jawaban-soal11.gif">
