@@ -191,3 +191,29 @@ Jawab :
 Jawab :
 
 <img src="doc/prak6-langkah8.gif">
+
+## Praktikum 7: BLoC Pattern
+
+### Soal 13
+
+- Jelaskan maksud praktikum ini ! Dimanakah letak konsep pola BLoC-nya ?
+
+Jawab :
+
+> 1.  Class RandomNumberBloc:
+>     RandomNumberBloc menggunakan dua StreamController: \_generateRandomController untuk mengontrol input events dan \_randomNumberController untuk mengontrol output berisi nomor acak.
+
+> 2.  Kelas MyHomePage:
+>     MyHomePage adalah antarmuka pengguna sederhana yang tidak terlibat langsung dalam logika bisnis. Pada pengembangan aplikasi kompleks, logika bisnis dapat dipindahkan ke dalam BLoC untuk menjaga kesatuan dan pemisahan tanggung jawab.
+
+> 3.  Class RandomScreen:
+>     RandomScreen adalah antarmuka pengguna yang menggunakan RandomNumberBloc. State widget ini dikendalikan oleh stream dari \_bloc.randomNumber. Event \_bloc.generateRandom memicu pembangkitan nomor acak yang diperbarui di UI.
+
+> 4.  Pemanggilan BLoC berada di main.dart:
+>     BLoC (RandomNumberBloc) diinisialisasi dan dimiliki oleh \_RandomScreenState. Pemanggilan \_bloc.generateRandom.add(null) pada tombol tindakan memicu pembangkitan nomor acak melalui BLoC.
+
+- Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+
+Jawab :
+
+<img src="doc/" >
