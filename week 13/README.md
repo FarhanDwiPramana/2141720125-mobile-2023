@@ -19,4 +19,22 @@ Jawab :
       title: 'Stream Farhan',
 ```
 
+### Soal 2
+- Tambahkan 5 warna lainnya sesuai keinginan Anda pada variabel colors tersebut.
+
+```dart
+ final List<Color> colors = [
+    Colors.blueGrey,
+    Colors.amber,
+    Colors.deepPurple,
+    Colors.lightBlue,
+    Colors.teal,
+    Colors.blueAccent,
+    Colors.purpleAccent,
+    Colors.brown,
+    Colors.green,
+    Colors.orange
+  ];
+```
+
 
