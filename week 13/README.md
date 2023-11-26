@@ -52,3 +52,10 @@ Jawab :
 
 > Kode tersebut bertujuan membuat stream warna yang berubah setiap detik. Ini dilakukan dengan memanfaatkan Stream.periodic yang menghasilkan nilai integer setiap detik. Nilai integer tersebut digunakan sebagai indeks untuk menentukan warna yang akan dihasilkan.
 
+### Soal 4
+
+- Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+
+Jawab :
+
+<img src="doc/prak1-jawaban-soal4.gif">
