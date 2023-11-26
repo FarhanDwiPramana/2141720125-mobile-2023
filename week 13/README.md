@@ -94,3 +94,12 @@ Jawab :
 Jawab :
 
 <img src="doc/prak2-jawaban-soal6.gif">
+
+### Soal 7
+
+- Jelaskan maksud kode langkah 13 sampai 15 tersebut!
+
+Jawab :
+
+> Pada langkah 13, Ditambahkan metode addError() ke kelas Stream. Fungsinya adalah menambahkan error ke dalam stream.
+> Pada langkah 15, mengerdit metode addRandomNumber(). Dua baris kode sebelumnya yang menambahkan nomor acak ke dalam stream telah di-komentari. Sebagai gantinya, ditambahkan kode baru untuk menyertakan error ke dalam stream.
