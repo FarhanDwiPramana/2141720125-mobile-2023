@@ -29,7 +29,7 @@ Future<Response> getData() async {
   }
 ```
 
-<img src="doc/prak1-langkah4-soal2-b.png)">
+<img src="doc/prak1-langkah4-soal2-b.png">
 
 **Soal 3** Jelaskan maksud kode langkah 5 tersebut terkait substring dan catchError!
 
@@ -53,7 +53,7 @@ Future<Response> getData() async {
 
 Pada langkah kelima, dilakukan penggunaan metode substring(0, 450) yaitu berguna untuk mengekstraksi karakter dengan panjang 450 pertama atau bisa dikatakan sabagai pembatas karakter. catchError digunakan sebagai menangkap atau mengatasi jika terjadi error ketika pemrosesan permintaan data.
 
-<img src="doc/prak1-langkah5.png)">
+<img src="doc/prak1-langkah5.png">
 
 # **Praktikum 2: Menggunakan await/async untuk menghindari callbacks**
 
